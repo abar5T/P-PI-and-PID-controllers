@@ -101,8 +101,6 @@ title('Pid-CONTROLLER') <br>
 ![pid controller](https://github.com/user-attachments/assets/c1955618-d729-43f9-9813-a79d60642921)
 
 
-## Result:
-Thus the P, PI and PID controllers for the given system was analysed and the following conclusions were arrived using MATLAB. <br>
 ### With-out controller 
 Delay time =   0.458   <br>
 Rise time =    0.999   <br>
@@ -129,5 +127,6 @@ Settling time = 0.882           <br>
 Steady State Error =  0.018      <br>
 
 
-
+## Result:
+Thus the P, PI and PID controllers for the given system was analysed and the following conclusions were arrived using MATLAB. <br>
 
